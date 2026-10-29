@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.example.verity.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": ["AbstractClientPlayerEntityMixin", "PlayerEntityRendererMixin", "EntityRendererAccessor"],
+  "injectors": { "defaultRequire": 1 }
+}
